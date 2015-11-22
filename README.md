@@ -11,7 +11,7 @@ Please notice that you need Python 2.7 to use TensorFlow. It won't work for grea
 
 <h2>Run</h2>
 
-Once you have tensorflow installed in your machine, just type the following in your terminal and have fun ;-)
+Once you have Tensorflow installed in your machine, just type the following in your terminal and have fun ;-)
 
 ```bash
 python mnist_example.py
